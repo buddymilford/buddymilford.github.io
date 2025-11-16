@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "date": "2025-10-02",
+        "game_1_score": 106,
+        "game_2_score": 121,
+        "game_3_score": 108,
+        "game_4_score": null
+    },
+    {
+        "id": 2,
+        "date": "2025-10-09",
+        "game_1_score": 162,
+        "game_2_score": 148,
+        "game_3_score": 116,
+        "game_4_score": 106
+    },
+    {
+        "id": 3,
+        "date": "2025-10-16",
+        "game_1_score": 134,
+        "game_2_score": 125,
+        "game_3_score": 162,
+        "game_4_score": null
+    },
+    {
+        "id": 4,
+        "date": "2025-10-23",
+        "game_1_score": 104,
+        "game_2_score": 123,
+        "game_3_score": 135,
+        "game_4_score": null
+    },
+    {
+        "id": 5,
+        "date": "2025-10-30",
+        "game_1_score": 132,
+        "game_2_score": 139,
+        "game_3_score": 122,
+        "game_4_score": 168
+    },
+    {
+        "id": 6,
+        "date": "2025-11-06",
+        "game_1_score": null,
+        "game_2_score": null,
+        "game_3_score": null,
+        "game_4_score": null
+    },
+    {
+        "id": 7,
+        "date": "2025-11-13",
+        "game_1_score": null,
+        "game_2_score": null,
+        "game_3_score": null,
+        "game_4_score": null
+    },
+    {
+        "id": 8,
+        "date": "2025-11-21",
+        "game_1_score": null,
+        "game_2_score": null,
+        "game_3_score": null,
+        "game_4_score": null
+    },
+    {
+        "id": 9,
+        "date": "2025-11-28",
+        "game_1_score": null,
+        "game_2_score": null,
+        "game_3_score": null,
+        "game_4_score": null
+    }
+]

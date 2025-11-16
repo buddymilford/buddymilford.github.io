@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "bowler": "Buddy Milford",
+        "game_1_score": 104,
+        "game_2_score": 123,
+        "game_3_score": 135,
+        "game_4_score": null,
+        "total_score": 362,
+        "average_score": 120.67
+    },
+    {
+        "id": 2,
+        "bowler": "McCarthy Grewe",
+        "game_1_score": 157,
+        "game_2_score": 107,
+        "game_3_score": 121,
+        "game_4_score": null,
+        "total_score": 385,
+        "average_score": 128.33
+    },
+    {
+        "id": 3,
+        "bowler": "Ian Goodwin",
+        "game_1_score": 108,
+        "game_2_score": 109,
+        "game_3_score": 73,
+        "game_4_score": null,
+        "total_score": 290,
+        "average_score": 96.67
+    },
+    {
+        "id": 4,
+        "bowler": "Tim Pickel",
+        "game_1_score": 118,
+        "game_2_score": 137,
+        "game_3_score": 155,
+        "game_4_score": null,
+        "total_score": 410,
+        "average_score": 136.67
+    }
+]

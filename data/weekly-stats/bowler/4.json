@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "date": "2025-10-02",
+        "total_score": null,
+        "average_score": null,
+        "average_score_difference": null,
+        "total_score_including_extras": null,
+        "average_score_including_extras": null,
+        "games": []
+    },
+    {
+        "id": 2,
+        "date": "2025-10-09",
+        "total_score": 330,
+        "average_score": 110.0,
+        "average_score_difference": 110.0,
+        "total_score_including_extras": 439,
+        "average_score_including_extras": 109.75,
+        "games": [
+            {
+                "id": 14,
+                "game_id": 1,
+                "bowler_id": 4,
+                "score": 106
+            },
+            {
+                "id": 15,
+                "game_id": 2,
+                "bowler_id": 4,
+                "score": 107
+            },
+            {
+                "id": 16,
+                "game_id": 3,
+                "bowler_id": 4,
+                "score": 117
+            },
+            {
+                "id": 17,
+                "game_id": 4,
+                "bowler_id": 4,
+                "score": 109
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "date": "2025-10-16",
+        "total_score": null,
+        "average_score": null,
+        "average_score_difference": null,
+        "total_score_including_extras": null,
+        "average_score_including_extras": null,
+        "games": []
+    },
+    {
+        "id": 4,
+        "date": "2025-10-23",
+        "total_score": 410,
+        "average_score": 136.67,
+        "average_score_difference": 26.67,
+        "total_score_including_extras": 410,
+        "average_score_including_extras": 136.67,
+        "games": [
+            {
+                "id": 34,
+                "game_id": 1,
+                "bowler_id": 4,
+                "score": 118
+            },
+            {
+                "id": 35,
+                "game_id": 2,
+                "bowler_id": 4,
+                "score": 137
+            },
+            {
+                "id": 36,
+                "game_id": 3,
+                "bowler_id": 4,
+                "score": 155
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "date": "2025-10-30",
+        "total_score": 403,
+        "average_score": 134.33,
+        "average_score_difference": -2.33,
+        "total_score_including_extras": 542,
+        "average_score_including_extras": 135.5,
+        "games": [
+            {
+                "id": 55,
+                "game_id": 1,
+                "bowler_id": 4,
+                "score": 103
+            },
+            {
+                "id": 56,
+                "game_id": 2,
+                "bowler_id": 4,
+                "score": 147
+            },
+            {
+                "id": 57,
+                "game_id": 3,
+                "bowler_id": 4,
+                "score": 153
+            },
+            {
+                "id": 61,
+                "game_id": 4,
+                "bowler_id": 4,
+                "score": 139
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "date": "2025-11-06",
+        "total_score": 389,
+        "average_score": 129.67,
+        "average_score_difference": -4.67,
+        "total_score_including_extras": 532,
+        "average_score_including_extras": 133.0,
+        "games": [
+            {
+                "id": 65,
+                "game_id": 1,
+                "bowler_id": 4,
+                "score": 123
+            },
+            {
+                "id": 66,
+                "game_id": 2,
+                "bowler_id": 4,
+                "score": 140
+            },
+            {
+                "id": 67,
+                "game_id": 3,
+                "bowler_id": 4,
+                "score": 126
+            },
+            {
+                "id": 72,
+                "game_id": 4,
+                "bowler_id": 4,
+                "score": 143
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "date": "2025-11-13",
+        "total_score": null,
+        "average_score": null,
+        "average_score_difference": null,
+        "total_score_including_extras": null,
+        "average_score_including_extras": null,
+        "games": []
+    },
+    {
+        "id": 8,
+        "date": "2025-11-21",
+        "total_score": null,
+        "average_score": null,
+        "average_score_difference": null,
+        "total_score_including_extras": null,
+        "average_score_including_extras": null,
+        "games": []
+    },
+    {
+        "id": 9,
+        "date": "2025-11-28",
+        "total_score": null,
+        "average_score": null,
+        "average_score_difference": null,
+        "total_score_including_extras": null,
+        "average_score_including_extras": null,
+        "games": []
+    }
+]

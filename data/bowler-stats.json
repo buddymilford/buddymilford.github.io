@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "bowler": "Buddy Milford",
+        "total_games": 15,
+        "total_score": 1937,
+        "average_score": 129.13,
+        "total_games_including_extras": 17,
+        "total_score_including_extras": 2211,
+        "average_score_including_extras": 130.06
+    },
+    {
+        "id": 2,
+        "bowler": "McCarthy Grewe",
+        "total_games": 12,
+        "total_score": 1690,
+        "average_score": 140.83,
+        "total_games_including_extras": 14,
+        "total_score_including_extras": 1911,
+        "average_score_including_extras": 136.5
+    },
+    {
+        "id": 3,
+        "bowler": "Ian Goodwin",
+        "total_games": 9,
+        "total_score": 946,
+        "average_score": 105.11,
+        "total_games_including_extras": 10,
+        "total_score_including_extras": 1082,
+        "average_score_including_extras": 108.2
+    },
+    {
+        "id": 4,
+        "bowler": "Tim Pickel",
+        "total_games": 12,
+        "total_score": 1532,
+        "average_score": 127.67,
+        "total_games_including_extras": 15,
+        "total_score_including_extras": 1923,
+        "average_score_including_extras": 128.2
+    },
+    {
+        "id": 5,
+        "bowler": "Al Cole",
+        "total_games": 3,
+        "total_score": 475,
+        "average_score": 158.33,
+        "total_games_including_extras": 3,
+        "total_score_including_extras": 475,
+        "average_score_including_extras": 158.33
+    },
+    {
+        "id": 6,
+        "bowler": "Dan Williams",
+        "total_games": 3,
+        "total_score": 526,
+        "average_score": 175.33,
+        "total_games_including_extras": 3,
+        "total_score_including_extras": 526,
+        "average_score_including_extras": 175.33
+    },
+    {
+        "id": 7,
+        "bowler": "Adam Morgenthaler",
+        "total_games": 9,
+        "total_score": 841,
+        "average_score": 93.44,
+        "total_games_including_extras": 11,
+        "total_score_including_extras": 1048,
+        "average_score_including_extras": 95.27
+    }
+]

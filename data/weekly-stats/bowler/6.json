@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "date": "2025-10-02",
+        "total_score": null,
+        "average_score": null,
+        "average_score_difference": null,
+        "total_score_including_extras": null,
+        "average_score_including_extras": null,
+        "games": []
+    },
+    {
+        "id": 2,
+        "date": "2025-10-09",
+        "total_score": null,
+        "average_score": null,
+        "average_score_difference": null,
+        "total_score_including_extras": null,
+        "average_score_including_extras": null,
+        "games": []
+    },
+    {
+        "id": 3,
+        "date": "2025-10-16",
+        "total_score": 526,
+        "average_score": 175.33,
+        "average_score_difference": 175.33,
+        "total_score_including_extras": 526,
+        "average_score_including_extras": 175.33,
+        "games": [
+            {
+                "id": 28,
+                "game_id": 1,
+                "bowler_id": 6,
+                "score": 145
+            },
+            {
+                "id": 29,
+                "game_id": 2,
+                "bowler_id": 6,
+                "score": 203
+            },
+            {
+                "id": 30,
+                "game_id": 3,
+                "bowler_id": 6,
+                "score": 178
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "date": "2025-10-23",
+        "total_score": null,
+        "average_score": null,
+        "average_score_difference": null,
+        "total_score_including_extras": null,
+        "average_score_including_extras": null,
+        "games": []
+    },
+    {
+        "id": 5,
+        "date": "2025-10-30",
+        "total_score": null,
+        "average_score": null,
+        "average_score_difference": null,
+        "total_score_including_extras": null,
+        "average_score_including_extras": null,
+        "games": []
+    },
+    {
+        "id": 6,
+        "date": "2025-11-06",
+        "total_score": null,
+        "average_score": null,
+        "average_score_difference": null,
+        "total_score_including_extras": null,
+        "average_score_including_extras": null,
+        "games": []
+    },
+    {
+        "id": 7,
+        "date": "2025-11-13",
+        "total_score": null,
+        "average_score": null,
+        "average_score_difference": null,
+        "total_score_including_extras": null,
+        "average_score_including_extras": null,
+        "games": []
+    },
+    {
+        "id": 8,
+        "date": "2025-11-21",
+        "total_score": null,
+        "average_score": null,
+        "average_score_difference": null,
+        "total_score_including_extras": null,
+        "average_score_including_extras": null,
+        "games": []
+    },
+    {
+        "id": 9,
+        "date": "2025-11-28",
+        "total_score": null,
+        "average_score": null,
+        "average_score_difference": null,
+        "total_score_including_extras": null,
+        "average_score_including_extras": null,
+        "games": []
+    }
+]
