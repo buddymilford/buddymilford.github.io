@@ -75,5 +75,14 @@
   {"id":74,"date":"2025-11-13","game_id":0,"bowler_id":0,"score":null},
   {"id":75,"date":"2025-11-21","game_id":0,"bowler_id":0,"score":null},
   {"id":76,"date":"2025-11-28","game_id":0,"bowler_id":0,"score":null},
-  {"id":76,"date":"2025-12-04","game_id":0,"bowler_id":0,"score":null}
+  {"id":76,"date":"2025-12-04","game_id":0,"bowler_id":0,"score":null},
+  {"id":77,"date":"2025-12-11","game_id":1,"bowler_id":2,"score":125},
+  {"id":78,"date":"2025-12-11","game_id":2,"bowler_id":2,"score":151},
+  {"id":79,"date":"2025-12-11","game_id":3,"bowler_id":2,"score":170},
+  {"id":80,"date":"2025-12-11","game_id":1,"bowler_id":3,"score":117},
+  {"id":81,"date":"2025-12-11","game_id":2,"bowler_id":3,"score":101},
+  {"id":82,"date":"2025-12-11","game_id":3,"bowler_id":3,"score":142},
+  {"id":83,"date":"2025-12-11","game_id":1,"bowler_id":4,"score":158},
+  {"id":84,"date":"2025-12-11","game_id":2,"bowler_id":4,"score":171},
+  {"id":85,"date":"2025-12-11","game_id":3,"bowler_id":4,"score":151}
 ]
