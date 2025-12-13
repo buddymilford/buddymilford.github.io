@@ -600,5 +600,26 @@
     "game_id": 3,
     "bowler_id": 4,
     "score": 151
+  },
+  {
+    "id": 86,
+    "date": "2026-01-01",
+    "game_id": 1,
+    "bowler_id": 8,
+    "score": 100
+  },
+  {
+    "id": 87,
+    "date": "2026-01-01",
+    "game_id": 2,
+    "bowler_id": 8,
+    "score": 200
+  },
+  {
+    "id": 88,
+    "date": "2026-01-01",
+    "game_id": 3,
+    "bowler_id": 8,
+    "score": 150
   }
 ]
