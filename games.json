@@ -600,5 +600,117 @@
     "game_id": 3,
     "bowler_id": 4,
     "score": 151
+  },
+  {
+    "id": 86,
+    "date": "2025-12-18",
+    "game_id": 1,
+    "bowler_id": 2,
+    "score": 94
+  },
+  {
+    "id": 87,
+    "date": "2025-12-18",
+    "game_id": 2,
+    "bowler_id": 2,
+    "score": 115
+  },
+  {
+    "id": 88,
+    "date": "2025-12-18",
+    "game_id": 3,
+    "bowler_id": 2,
+    "score": 158
+  },
+  {
+    "id": 89,
+    "date": "2025-12-18",
+    "game_id": 4,
+    "bowler_id": 2,
+    "score": 173
+  },
+  {
+    "id": 90,
+    "date": "2025-12-18",
+    "game_id": 1,
+    "bowler_id": 7,
+    "score": 105
+  },
+  {
+    "id": 91,
+    "date": "2025-12-18",
+    "game_id": 2,
+    "bowler_id": 7,
+    "score": 89
+  },
+  {
+    "id": 92,
+    "date": "2025-12-18",
+    "game_id": 3,
+    "bowler_id": 7,
+    "score": 115
+  },
+  {
+    "id": 93,
+    "date": "2025-12-18",
+    "game_id": 4,
+    "bowler_id": 7,
+    "score": 131
+  },
+  {
+    "id": 94,
+    "date": "2025-12-18",
+    "game_id": 1,
+    "bowler_id": 4,
+    "score": 117
+  },
+  {
+    "id": 95,
+    "date": "2025-12-18",
+    "game_id": 2,
+    "bowler_id": 4,
+    "score": 177
+  },
+  {
+    "id": 96,
+    "date": "2025-12-18",
+    "game_id": 3,
+    "bowler_id": 4,
+    "score": 153
+  },
+  {
+    "id": 97,
+    "date": "2025-12-18",
+    "game_id": 4,
+    "bowler_id": 4,
+    "score": 179
+  },
+  {
+    "id": 98,
+    "date": "2025-12-18",
+    "game_id": 1,
+    "bowler_id": 1,
+    "score": 120
+  },
+  {
+    "id": 99,
+    "date": "2025-12-18",
+    "game_id": 2,
+    "bowler_id": 1,
+    "score": 141
+  },
+  {
+    "id": 100,
+    "date": "2025-12-18",
+    "game_id": 3,
+    "bowler_id": 1,
+    "score": 159
+  },
+  {
+    "id": 101,
+    "date": "2025-12-18",
+    "game_id": 4,
+    "bowler_id": 1,
+    "score": 139
   }
 ]
