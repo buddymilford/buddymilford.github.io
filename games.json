@@ -1748,5 +1748,89 @@
     "game_id": 3,
     "bowler_id": 11,
     "score": 106
+  },
+  {
+    "id": 250,
+    "date": "2026-04-02",
+    "game_id": 1,
+    "bowler_id": 7,
+    "score": 125
+  },
+  {
+    "id": 251,
+    "date": "2026-04-02",
+    "game_id": 2,
+    "bowler_id": 7,
+    "score": 111
+  },
+  {
+    "id": 252,
+    "date": "2026-04-02",
+    "game_id": 3,
+    "bowler_id": 7,
+    "score": 94
+  },
+  {
+    "id": 253,
+    "date": "2026-04-02",
+    "game_id": 1,
+    "bowler_id": 4,
+    "score": 138
+  },
+  {
+    "id": 254,
+    "date": "2026-04-02",
+    "game_id": 2,
+    "bowler_id": 4,
+    "score": 151
+  },
+  {
+    "id": 255,
+    "date": "2026-04-02",
+    "game_id": 3,
+    "bowler_id": 4,
+    "score": 194
+  },
+  {
+    "id": 256,
+    "date": "2026-04-02",
+    "game_id": 1,
+    "bowler_id": 2,
+    "score": 187
+  },
+  {
+    "id": 257,
+    "date": "2026-04-02",
+    "game_id": 2,
+    "bowler_id": 2,
+    "score": 115
+  },
+  {
+    "id": 258,
+    "date": "2026-04-02",
+    "game_id": 3,
+    "bowler_id": 2,
+    "score": 144
+  },
+  {
+    "id": 259,
+    "date": "2026-04-02",
+    "game_id": 1,
+    "bowler_id": 1,
+    "score": 140
+  },
+  {
+    "id": 260,
+    "date": "2026-04-02",
+    "game_id": 2,
+    "bowler_id": 1,
+    "score": 129
+  },
+  {
+    "id": 261,
+    "date": "2026-04-02",
+    "game_id": 3,
+    "bowler_id": 1,
+    "score": 129
   }
 ]
