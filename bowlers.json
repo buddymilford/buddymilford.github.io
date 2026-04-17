@@ -1,9 +1,5 @@
 [
   {
-    "id": 99,
-    "name": "John Doe"
-  },
-  {
     "id": 1,
     "name": "Buddy Milford"
   },
@@ -46,5 +42,9 @@
   {
     "id": 11,
     "name": "Tim Davison"
+  },
+  {
+    "id": 99,
+    "name": "John Doe"
   }
 ]
