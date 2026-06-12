@@ -1,1 +1,0 @@
-import{u as r,r as e,j as a,N as n,O as u}from"./vendor-react-oScC_FWk.js";import{B as i,S as c,D as f}from"./index-LlublUpR.js";import"./vendor-mui-Dd7WCzdX.js";function m(){const{season:s}=r(),{updateSelectedSeason:o}=e.useContext(i),t=c[s??""];return e.useEffect(()=>{t&&o(t.apiPath)},[s]),t?a.jsx(u,{}):a.jsx(n,{to:`/${f}`,replace:!0})}export{m as default};
